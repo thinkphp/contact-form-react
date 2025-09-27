@@ -27,7 +27,7 @@ Modern and responsive contact form built with **React** and **Tailwind CSS**. Fe
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/contact-form.git
+   git clone https://github.com/thinkphp/contact-form-react.git
    cd contact-form
    ```
 
