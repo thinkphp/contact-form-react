@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [@thinkphp](https://twitter.com/thinkphp) - email@example.com
+**Your Name** - [@thinkphp](https://twitter.com/thinkphp) - adrianstatescu08@gmail.com
 
 **Project Link:** [https://github.com/yourusername/contact-form](https://github.com/thinkphp/contact-form)
 
