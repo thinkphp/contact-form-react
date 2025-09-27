@@ -21,7 +21,7 @@ Modern and responsive contact form built with **React** and **Tailwind CSS**. Fe
 
 ## 🚀 Demo
 
-**Live Demo:** [https://thinkphp.github.io/contact-form](https://thinkphp.github.io/contact-form)
+**Live Demo:** [https://thinkphp.github.io/contact-form](https://thinkphp.github.io/contact-form-react)
 
 ## 📦 Installation & Setup
 
